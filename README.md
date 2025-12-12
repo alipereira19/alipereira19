@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **full-stack projects**
 
-- 💬 Ask me about **React.js, Python, JavaScript, Rest API´s**
+- 💬 Ask me about **React.js, Python, JavaScript, Machine Learning, Data Science**
 
 - 📫 How to reach me **aliper1908@gmail.com**
 
