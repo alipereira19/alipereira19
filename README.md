@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aliper1908@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/o8n0wkkvakbp](https://flowcv.com/resume/o8n0wkkvakbp)
+- 📄 Know about my experiences [https://flowcv.com/resume/o8n0wkkvakbp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
